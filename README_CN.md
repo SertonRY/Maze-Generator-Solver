@@ -4,7 +4,7 @@
 
 使用Java语言，在IDEA中编写。
 
-具体的学习记录可以在[CSDN](https://blog.csdn.net/weixin_42588702)上查看。
+具体的学习记录可以在[CSDN](https://blog.csdn.net/weixin_42588702/article/details/111591162)上查看。
 
 源代码在src目录下，你可以直接将整个项目用IDEA打开。
 

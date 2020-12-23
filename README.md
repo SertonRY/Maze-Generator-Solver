@@ -6,7 +6,7 @@ Normal maze game on Windows x86_64 platform.
 
 Written by IDEA Community in Java language.
 
-The detail of this whole project can be seen on [CSDN](https://blog.csdn.net/weixin_42588702) website.
+The detail of this whole project can be seen on [CSDN](https://blog.csdn.net/weixin_42588702/article/details/111591162) website.
 
 The source codes are in src directory, you can simply open the whole project by IDEA.
 
